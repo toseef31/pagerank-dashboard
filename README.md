@@ -123,7 +123,7 @@ https://pagerank-dashboard-frontend.vercel.app/
 
 ## Feedback
 
-If you have any feedback, please reach out to us at toseefa071@gmail.com
+If you have any feedback, please reach out to me at toseefa071@gmail.com
 
 ## Authors
 

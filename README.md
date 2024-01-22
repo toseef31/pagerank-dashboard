@@ -115,10 +115,10 @@ To run tests for backend, run the following command
 ```
 
 
-<!-- ## Demo
+## Demo
 
 Here is the demo link for guest users:
-https://semantic-graph-frontend.vercel.app/ -->
+https://pagerank-dashboard-frontend.vercel.app/
 
 
 ## Feedback
